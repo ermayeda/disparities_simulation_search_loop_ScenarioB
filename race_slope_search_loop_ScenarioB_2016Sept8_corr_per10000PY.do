@@ -222,7 +222,7 @@ global g1_65to70l = -0.05
 global g1_70to75l = -0.1
 global g1_75to80l = -0.2
 global g1_80to85l = -0.3
-globalg1_85to90l = -0.5
+global g1_85to90l = -0.5
 global g1_90to95l = -0.6
 *global g1_95to100l = -0.75
 
