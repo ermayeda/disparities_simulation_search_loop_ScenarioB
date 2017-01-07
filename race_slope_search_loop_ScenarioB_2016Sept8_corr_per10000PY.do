@@ -119,12 +119,14 @@ global pstrokedeath = 0.25
 /******************************************************************************/
 
 
-* challenge: we want the same number of peopel having strokes after we add U.
+/*Challenge: we want the same number of people having strokes after we add U.
 
-*this is a do file to run the data generating do file with different values for the baseline mortality odds
-*start with a value for the target that is definitely too low for the target stroke or cumulative mortality
-*within each age band. The search loop will stop at the first increment where the start value results in a 
-*stroke rate/cumulative mortality >=the target stroke rate/cumulative mortality.
+This is a do file to run the data generating do file with different values for 
+the baseline mortality odds start with a value for the target that is definitely 
+too low for the target stroke or cumulative mortality within each age band. 
+The search loop will stop at the first increment where the start value results 
+in a stroke rate/cumulative mortality >=the target stroke rate/cumulative 
+mortality.*/
 
 /*Target and starting values for baseline mortality hazard for whites*/
 *Target values
