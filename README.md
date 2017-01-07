@@ -1,0 +1,2 @@
+# disparities_simulation_search_loop_ScenarioB
+code copied from race_slope_search_loop_ScenarioB_2016Sept8_corr_per10000PY.do
