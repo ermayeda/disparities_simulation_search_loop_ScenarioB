@@ -22560,7 +22560,6 @@ dis $g1_95to100_min
 
 
 /*starting values*/
-/*starting values*/
 *baseline mortality hazard for whites
 dis $lambda_45to50l 
 dis $lambda_50to55l 
